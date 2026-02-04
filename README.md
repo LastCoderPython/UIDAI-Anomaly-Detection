@@ -616,7 +616,7 @@ This project demonstrates the feasibility and value of ML-based anomaly detectio
 ✅ Fully reproducible and documented  
 ✅ Production-ready implementation  
 
-**Recommendation**: Implement in UIDAI's enrollment verification pipeline to strengthen system integrity and prevent fraud at scale.
+**Scope**: Implementation in UIDAI's enrollment verification pipeline will strengthen system integrity and prevent fraud at scale.
 
 ---
 
